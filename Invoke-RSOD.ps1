@@ -3,7 +3,7 @@ function Invoke-RSOD {
 .SYNOPSIS
 
 Invokes a Red Screen of Death on Windows without requiring admin privileges.
-Author:  theguy72 (copied raw script from peewpw
+Author:  theguy72 (copied raw script from peewpw)
 
 .DESCRIPTION
 
